@@ -1,0 +1,55 @@
+# Website type
+site_type: Person
+locale: en_US
+
+# Contact details
+email: gawandechiranjiv@gmail.com
+phone: '+91 9119421005'
+address:
+  city: Pune
+  region: Maharashtra
+  country: India
+  country_code: IN
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: "Chiranjiv Gawande"
+    button:
+      enable: true
+      text: "Get In Touch"
+      url: "mailto:gawandechiranjiv@gmail.com"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Chiranjiv Gawande. Made with {hugo} and {blox}.'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Appearance
+appearance:
+  mode: system
+  color: blue
+
+# Marketing
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'Chiranjiv Gawande'
+    description: 'Bioinformatician and Computational Biology Researcher specializing in drug discovery, network pharmacology, and genomic data analysis.'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+  verification:
+    google: ''
+    baidu: ''
